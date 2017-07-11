@@ -3,9 +3,9 @@
 
 ```
 # clone 到本地
-git clone ...
-# 快速安装依赖并启动
-./install.sh
+git clone http://git.jd.com/yuanlong10/error-report.git
+cd error-report
+npm run install
 ```
 
 #### 注意事项：
